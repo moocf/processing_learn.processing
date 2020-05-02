@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<data>
+<img id="link" file="link-128.png" />
+<img id="link2" file="link-128.png" />
+<snd id="music" file="music.mp3" />
+<anim id="link" loop="true">
+	<img file="link-26.png" wait="5" />
+	<img file="link-32.png" wait="5" />
+	<img file="link-48.png" wait="5" />
+	<img file="link-64.png" wait="5" />
+	<img file="link-128.png" wait="5" />
+	<img file="link-256.png" wait="5" />
+	<img file="link-512.png" wait="5" />
+</anim>
+</data>
